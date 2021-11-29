@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Web3Js-Android</string>
+    <string name="create_wallet">create wallet</string>
+    <string name="your_address_will_be_shown_here">your address will be shown here</string>
+    <string name="connect">connect to a node</string>
+    <string name="address">ADDRESS</string>
+    <string name="balance"> retrieve balance</string>
+    <string name="send">Send</string>
+    <string name="please_check_your_balance"> your balance will be shown here</string>
+    <string name="your_balance">\" your balance in wei is : \"</string>
+    <string name="enter_eth_value_to_send">enter Eth value to send</string>
+    <string name="create_etherium_wallet">Create Etherium Wallet</string>
+    <string name="enter_wallet_name">enter wallet path</string>
+    <string name="please_enter_password">please enter password</string>
+    <string name="connect_to_etherium_network">Connect to Etherium Network</string>
+    <string name="send_etherium">Send Etherium</string>
+    <string name="your_address">\"Your address is \"</string>
+</resources>

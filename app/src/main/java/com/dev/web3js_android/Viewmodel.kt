@@ -40,7 +40,7 @@ class Mainviewmodel : ViewModel() {
     //enter your own infura api key below
     init {
         web3 =
-            Web3j.build(HttpService("https://rinkeby.infura.io/v3/e344d511c77a4f78af0880dc3e90ca7b"))
+            Web3j.build(HttpService("https://rinkeby.infura.io/v3/e344xxxxxxxxxxxx872"))
 
     }
 

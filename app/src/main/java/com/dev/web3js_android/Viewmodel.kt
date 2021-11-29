@@ -125,7 +125,7 @@ class Mainviewmodel : ViewModel() {
                     val receipt: TransactionReceipt = Transfer.sendFunds(
                         web3,
                         credentials,
-                        credentials?.address,
+                        " enter yours address",
                         BigDecimal.valueOf(value.toLong()),
                         Convert.Unit.ETHER
                     ).send()

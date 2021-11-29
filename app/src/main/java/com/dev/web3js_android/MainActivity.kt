@@ -39,11 +39,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         txtaddress = findViewById(R.id.text_address)
 
-        //enter your own infura api key below
-        //  web3 = Web3j.build(HttpService("https://rinkeby.infura.io/v3/e344d511c77a4f78af0880dc3e90ca7b"))
-
-        // setupBouncyCastle()
-
         //  this is the pathname for the file that will be created and stores the wallet details
         val Edtpath = findViewById<EditText>(R.id.walletpath)
         val etheriumwalletPath = Edtpath.text.toString()
